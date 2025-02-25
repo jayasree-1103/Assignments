@@ -1,0 +1,14 @@
+C:\source\VialtoProject\bin\Debug\net8.0\VialtoProject.exe
+C:\source\VialtoProject\bin\Debug\net8.0\VialtoProject.deps.json
+C:\source\VialtoProject\bin\Debug\net8.0\VialtoProject.runtimeconfig.json
+C:\source\VialtoProject\bin\Debug\net8.0\VialtoProject.dll
+C:\source\VialtoProject\bin\Debug\net8.0\VialtoProject.pdb
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.AssemblyInfoInputs.cache
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.AssemblyInfo.cs
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.csproj.CoreCompileInputs.cache
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.dll
+C:\source\VialtoProject\obj\Debug\net8.0\refint\VialtoProject.dll
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.pdb
+C:\source\VialtoProject\obj\Debug\net8.0\VialtoProject.genruntimeconfig.cache
+C:\source\VialtoProject\obj\Debug\net8.0\ref\VialtoProject.dll
